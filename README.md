@@ -1,19 +1,17 @@
-component-compile
+ejs-compile
 =================
 
-Component sub-command to pre-compile all your .ejs files to requirable js files.  Sorry does not work on Windows :(
+Pre-compile all your .ejs files to requirable js files.  Sorry does not work on Windows :(
 
 ## Installation
-
-  With [Component](http://github.com/component/component) previously installed:
 ```
-  $ [sudo] npm install -g component-compile
+  $ [sudo] npm install -g ejs-compile
 ```
 
 ## Pre-compile all your ejs files recursively
 
 ```
-  $ component compile <dir>
+  $ ejs-compile <dir>
 ```
 
 ## Render your html
