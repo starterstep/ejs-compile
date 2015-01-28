@@ -5,7 +5,7 @@ Pre-compile all your .ejs files to requirable js files.  Sorry does not work on 
 
 ## Installation
 ```
-  $ [sudo] npm install -g ejs-compile
+  $ [sudo] npm install -g git+ssh://git@github.com:starterstep/ejs-compile.git
 ```
 
 ## Pre-compile all your ejs files recursively
