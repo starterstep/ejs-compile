@@ -1,9 +1,8 @@
 {
-    "name": "component-compile",
+    "name": "ejs-compile",
     "version": "0.0.2",
     "description": "Compile all .ejs files under a directory",
     "keywords": [
-        "component",
         "ejs",
         "compile"
     ],
@@ -13,7 +12,7 @@
         "ejs":"*"
     },
     "bin": {
-        "component-compile": "bin/component-compile"
+        "ejs-compile": "bin/ejs-compile"
     },
     "engines": {
         "node": ">= 0.8.0"
